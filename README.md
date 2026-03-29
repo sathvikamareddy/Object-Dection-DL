@@ -1,4 +1,8 @@
+<div align="center">
+  
 # 🧠 Object Detection Using Deep Learning (YOLOv8 + Tkinter)
+
+</div>
 
 ## 📌 Project Overview
 
